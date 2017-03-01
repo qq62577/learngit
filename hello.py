@@ -1,1 +1,4 @@
-print('my files')
+
+#/user/administrator/leargint
+print('hello,world.')
+
